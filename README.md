@@ -25,8 +25,8 @@ The project is structured as follows:
 8. **Conclusion**: Summary of the project and final remarks.
 
 ## Usage
-- Clone the repository: `git clone https://github.com/your-username/project-name.git`
-- Navigate to the project directory: `cd project-name`
+- Clone the repository: `git clone https://github.com/leroymusa/EECS3401-Final-Project.git`
+- Navigate to the project directory: `cd EECS3401-Final-Project`
 - Run the Jupyter notebook or Python scripts to execute the code.
 
 ## Requirements
